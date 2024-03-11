@@ -1,0 +1,28 @@
+2362;Iphone14;Apple;4000;Electronics ;6;2024;True
+2322;Fifa23;EA sports;130;Console;16;True;False
+5461;GTA V;ROCKSTAR;200;Console;2;False;True
+5461;TVscreen;LG;2000;Electronics ;15;2020;True
+54613;Monitor23;MSI;2100;Electronics ;16;2023;True
+9494;monitor;MSI;7000;Electronics ;32;2023;True
+3490;mincraft;mini;100;Console;2;True;False
+43084;spiderman;LG;100;Console;8;True;False
+8355;fridge353;samsung;7000;Fridge;600;800;15
+8533;washingmachine382;samsung;700;Fridge;500;800;30
+7463;Iphone13 pro;Apple;2300;Electronics ;7;2022;True
+8910;pro12;huawei ;1500;Electronics ;6;2020;True
+6230;Fridge23Pro;COHS;800;Fridge;160;800;30
+7921;RQ760N4IFE;HISENSE;10999;Fridge;200;800;39
+2923;RQ760N4IFE;HISENSE;10999;Fridge;180;600;39
+2900;38FS ;COHS;700;Fridge;180;600;39
+7020;TheLastOfUs;Playstation;320;Console;2;True;False
+7022;Mirage;Ubisoft;170;Console;2;False;True
+7023;WatchDogs;Ubisoft;299;Console;2;False;True
+7021;UFC;EAsports;299;Console;8;False;True
+7040;TheWatcherIII;Playstation;200;Console;2;True;False
+7055;Forza5;XBOX;100;Console;4;False;True
+1020;MonitorER323;LENOVO;499;Electronics ;23;2020;False
+1022;MonitorOdyssey;SAMsung;499;Electronics ;34;2023;True
+2002;MacBookPRO;APPLE;4000;Electronics ;23;2023;True
+2032;GT63;MSI;3000;Electronics ;23;2022;True
+4050;ROCKET LEAGUE;epic;299;Console;4;True;False
+7690;FARCRY;UBISOFT;100;Console;2;True;False
